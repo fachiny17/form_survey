@@ -1,3 +1,3 @@
 # form survey
 
-form survey
+Example of form survey
